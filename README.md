@@ -1,2 +1,2 @@
 # JavaDio
-Pasta dos projetos do BootCamp Java na Dio.
+Pasta do projeto do Git do BootCamp Java na Dio.
